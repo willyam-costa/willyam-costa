@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com desenvolvimento mobile.
 - 🌱 Estudando Java SpringBoot
+- 🌱 Estudando Swift
 
 <div>
   <a href="https://github.com/willyam-costa">
