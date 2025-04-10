@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Victor Moraes 👋
 
-- 🔭 Hoje trabalho com desenvolvimento mobile.
-- 🌱 Estudando Java SpringBoot
-- 🌱 Estudando Swift
+- 🔭 Hoje trabalho com desenvolvimento de customizações para o sistema de ERP TOTVS PROTHEUS.
+- 🌱 Estudando ADVPL
+- 🌱 Estudando MICROSOFT SQL Server
+- 🌱 Estudando JAVA
 
 <div>
   <a href="https://github.com/willyam-costa">
