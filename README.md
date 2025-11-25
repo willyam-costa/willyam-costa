@@ -5,11 +5,6 @@
 - 🌱 Estudando MICROSOFT SQL Server
 - 🌱 Estudando JAVA
 
-<div>
-  <a href="https://github.com/willyam-costa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willyam-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyam-costa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="victor-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
