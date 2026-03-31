@@ -14,7 +14,7 @@
   <img align="center" alt="victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="victor-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="victor-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img align="center" alt="victor-totvs" height="30" width="40" src="https://icon-icons.com/pt/icone/totvs/131953" />
+  <img align="center" alt="victor-totvs" height="30" width="40" src="https://icon-icons.com/pt/icone/totvs/131953.svg" />
  
 </div>
   
